@@ -8,6 +8,8 @@ public class gitRefresh {
 
         System.out.println("I just added a new branch to my github");
 
+        System.out.println("hi friends");
+
 
     }
 
